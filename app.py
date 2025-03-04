@@ -131,7 +131,7 @@ st.markdown(
     """
     <hr>
     <p style='text-align: center; color: #555;'>
-        Made with ❤️ by Ayesha | Stay Safe Online! 🔐
+        Made by Shama Farooq ! 🔐
     </p>
     """,
     unsafe_allow_html=True
